@@ -16,7 +16,7 @@
 > ⚠️  运行前请先确认环境是否为 ***Python 3.8***
 
 ```shell
-git clone https://github.com/shanling2016/ZhiJiaoYun && cd ZhiJiaoYun/
+git clone https://github.com/CieanYau0/ZhiJiaoYun2.git
 ```
 
 > 安装依赖库
